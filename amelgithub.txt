@@ -1,0 +1,5 @@
+git config --global user.name "github username"
+git config --global user.email "githubemail"
+git init
+git status
+git add . ==git add filename or
